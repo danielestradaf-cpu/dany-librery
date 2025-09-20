@@ -1,10 +1,7 @@
 # dany librery
-<<<<<<< Updated upstream
 libreria 
 # Booknest
-=======
 
->>>>>>> Stashed changes
 
 Booknest es una aplicación web básica desarrollada con HTML, CSS y JavaScript que permite la gestión sencilla de libros en una biblioteca o librería.
 
@@ -47,7 +44,4 @@ Booknest es una aplicación web básica desarrollada con HTML, CSS y JavaScript 
 3. Ingresa con:  
    - Admin → `admin@booknest.com / 1234`  
    - Cliente → cualquier otro correo/contraseña.  
-<<<<<<< Updated upstream
-=======
-
 
