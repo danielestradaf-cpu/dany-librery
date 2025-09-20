@@ -50,8 +50,4 @@ Booknest es una aplicación web básica desarrollada con HTML, CSS y JavaScript 
 <<<<<<< Updated upstream
 =======
 
-## Publicación en GitHub Pages
 
-1. Sube el proyecto a un repositorio en GitHub.  
-2. Ve a Settings > Pages y selecciona la rama `main` con carpeta `/root`.  
->>>>>>> Stashed changes
