@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
+# Asegurar saltos de línea consistentes en todos los SO
 * text=auto
+
+# Archivos de código (se normalizan como texto)
+*.html text
+*.css  text
+*.js   text
+*.md   text
+
+# Archivos de imagen (no se modifican)
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.svg  binary
